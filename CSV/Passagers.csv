@@ -1,0 +1,235 @@
+id_personne;id_voyage;lieu_embarquement;lieu_debarquement
+1;1;Le Havre;Georgetown
+2;1;Le Havre;Madrid
+3;1;Madrid;Port-au-Prince
+4;1;Le Havre;Port-au-Prince
+5;1;Le Havre;Georgetown
+6;1;Le Havre;Georgetown
+7;1;Le Havre;Georgetown
+8;1;Le Havre;Georgetown
+9;2;Marseilles;Lisbonne
+10;2;Madrid;Lisbonne
+11;2;Marseilles;Dakar
+6;2;Marseilles;Madrid
+12;3;Immingham;Madrid
+13;3;Immingham;Madrid
+6;3;Immingham;Bordeaux
+14;3;Immingham;Madrid
+15;3;Immingham;Madrid
+16;3;Immingham;Madrid
+17;4;Pointe a Pitre;Vieux fort
+18;4;Pointe a Pitre;Vieux fort
+19;4;Pointe a Pitre;Vieux fort
+20;4;Pointe a Pitre;Vieux fort
+21;4;Pointe a Pitre;Vieux fort
+22;4;Pointe a Pitre;Vieux fort
+23;4;Pointe a Pitre;Vieux fort
+24;4;Pointe a Pitre;Vieux fort
+25;4;Pointe a Pitre;Vieux fort
+26;4;Pointe a Pitre;Vieux fort
+27;4;Pointe a Pitre;Vieux fort
+28;4;Pointe a Pitre;Vieux fort
+29;4;Pointe a Pitre;Vieux fort
+30;4;Pointe a Pitre;Vieux fort
+31;4;Pointe a Pitre;Vieux fort
+32;4;Pointe a Pitre;Vieux fort
+33;4;Pointe a Pitre;Vieux fort
+34;4;Pointe a Pitre;Vieux fort
+35;4;Pointe a Pitre;Vieux fort
+36;4;Pointe a Pitre;Vieux fort
+37;6;Quebec;Louisbourg
+38;6;Louisbourg;Georgetown
+39;6;Quebec;Georgetown
+40;6;Quebec;Georgetown
+41;6;Quebec;Georgetown
+42;6;Quebec;Georgetown
+43;6;Quebec;Georgetown
+44;6;Quebec;Georgetown
+45;6;Quebec;Georgetown
+46;6;Quebec;Georgetown
+47;6;Quebec;Georgetown
+48;7;Lisbonne;Recife
+49;7;Lisbonne;Dakar
+50;7;Dakar;Recife
+51;7;Dakar;Recife
+52;8;Londres;Port-au-Prince
+53;9;Londres;New York
+54;10;Port-au-Prince;New York
+55;10;Londres;Port-au-Prince
+56;10;Londres;Port-au-Prince
+57;10;Londres;Port-au-Prince
+58;10;Georgetown;New York
+59;10;Londres;New York
+60;10;Londres;New York
+61;11;Marseilles;Pointe a Pitre
+6;12;Le Havre;Bordeaux
+62;12;Bordeaux;Lisbonne
+63;12;Lisbonne;Port-au-Prince
+64;12;Port-au-Prince;Vieux fort
+65;12;Fort-de-France;Luanda
+66;12;Luanda;Madras
+67;12;Pondichery;Manilles
+68;12;Maputo;Shanghai
+69;12;Le Havre;Shanghai
+70;12;Diu;Calcutta
+71;13;Madrid;Immingham
+72;13;Madrid;Immingham
+73;13;Madrid;Immingham
+74;13;Madrid;Immingham
+6;13;Sines;Immingham
+75;13;Sines;Immingham
+76;13;Sines;Immingham
+77;13;Sines;Immingham
+78;13;Sines;Immingham
+79;13;Sines;Immingham
+80;13;Madrid;Immingham
+81;13;Madrid;Immingham
+82;13;Madrid;Immingham
+83;13;Sines;Immingham
+84;13;Sines;Immingham
+85;13;Sines;Immingham
+86;14;Bombay;Pondichery
+87;14;Bombay;Madras
+88;14;Calcutta;Batavia
+89;14;Bombay;Batavia
+90;14;Madras;Manilles
+91;14;Batavia;Manilles
+6;14;Pondichery;Manilles
+92;14;Bombay;Manilles
+93;14;Madras;Calcutta
+39;15;Quebec;Louisbourg
+40;15;Louisbourg;Georgetown
+41;15;Quebec;Georgetown
+42;15;Quebec;Georgetown
+43;15;Louisbourg;Georgetown
+44;15;Quebec;Georgetown
+45;15;Louisbourg;Georgetown
+46;15;Louisbourg;Georgetown
+6;15;Quebec;Louisbourg
+12;16;Calcutta;Tokyo
+6;16;Manilles;Shanghai
+14;16;Calcutta;Batavia
+94;17;Luba;Namiba
+95;17;Luba;Namiba
+96;17;Luba;Namiba
+97;17;Luba;Namiba
+98;17;Luba;Namiba
+99;17;Luba;Namiba
+100;17;Luba;Namiba
+101;18;Amsterdam;Le Cap
+6;18;Amsterdam;Le Havre
+102;18;Amsterdam;Bordeaux
+103;18;Bordeaux;Namiba
+104;18;Amsterdam;Namiba
+105;18;Dakar;Le Cap
+106;18;Bata;Le Cap
+107;18;Amsterdam;Bata
+108;19;Ziguinchor;Batavia
+109;19;Ziguinchor;Maputo
+110;19;Ziguinchor;Luanda
+111;19;Luanda;Namiba
+112;19;Maputo;Fort Dauphin
+113;19;Fort Dauphin;Pointe des Galets
+114;19;Fort Dauphin;Pointe des Galets
+115;19;Pointe des Galets;Batavia
+116;19;Pointe des Galets;Batavia
+113;20;Luanda;Maputo
+114;20;Luanda;Fort Dauphin
+115;20;Maputo;Fort Dauphin
+116;20;Maputo;Fort Dauphin
+105;21;Rotterdam;Amsterdam
+106;21;Rotterdam;Amsterdam
+107;21;Rotterdam;Amsterdam
+6;21;Rotterdam;Amsterdam
+118;21;Rotterdam;Amsterdam
+119;21;Rotterdam;Amsterdam
+120;21;Rotterdam;Amsterdam
+121;21;Rotterdam;Amsterdam
+122;21;Rotterdam;Amsterdam
+123;21;Rotterdam;Amsterdam
+124;21;Rotterdam;Amsterdam
+125;21;Rotterdam;Amsterdam
+126;21;Rotterdam;Amsterdam
+127;21;Rotterdam;Amsterdam
+128;21;Rotterdam;Amsterdam
+129;22;Louisbourg;Vieux fort
+130;22;Louisbourg;Vieux fort
+131;22;Louisbourg;Vieux fort
+132;22;Louisbourg;Vieux fort
+133;22;Louisbourg;Vieux fort
+79;23;Madrid;Sines
+80;23;Madrid;Sines
+81;23;Madrid;Sines
+82;23;Madrid;Sines
+83;23;Madrid;Sines
+84;23;Madrid;Sines
+6;23;Madrid;Sines
+68;24;Algeciras;Lisbonne
+69;24;Algeciras;Bordeaux
+82;24;Bordeaux;Le Havre
+46;24;Algeciras;Le Havre
+6;25;Macao;Le Cap
+134;25;Macao;Calcutta
+135;25;Macao;Pointe des Galets
+136;26;New York;Georgetown
+12;27;Bombay;Calcutta
+13;27;Bombay;Calcutta
+86;27;Bombay;Madras
+87;27;Bombay;Madras
+88;27;Bombay;Pondichery
+89;27;Bombay;Pondichery
+90;27;Bombay;Pondichery
+6;27;Pondichery;Madras
+142;27;Madras;Calcutta
+143;27;Madras;Calcutta
+144;27;Madras;Calcutta
+12;28;Tokyo;Kyoto
+13;28;Tokyo;Kyoto
+145;28;Tokyo;Kyoto
+146;28;Tokyo;Kyoto
+147;28;Tokyo;Kyoto
+148;28;Tokyo;Kyoto
+149;28;Tokyo;Kyoto
+150;28;Tokyo;Kyoto
+151;28;Tokyo;Kyoto
+152;28;Tokyo;Kyoto
+6;29;Port-au-Prince;Pointe a Pitre
+30;29;Port-au-Prince;Fort-de-France
+31;29;Pointe a Pitre;Fort-de-France
+32;29;Pointe a Pitre;Fort-de-France
+33;29;Port-au-Prince;Pointe a Pitre
+153;30;Malabo;Bata
+154;30;Malabo;Luanda
+155;30;Malabo;Namiba
+156;30;Malabo;Bata
+157;30;Malabo;Le Cap
+48;31;Recife;Rio de Janeiro
+158;31;Recife;Rio de Janeiro
+159;32;Recife;Rio de Janeiro
+160;32;Recife;Rio de Janeiro
+161;32;Recife;Rio de Janeiro
+162;32;Recife;Rio de Janeiro
+6;33;Batavia;Manilles
+50;33;Batavia;Manilles
+51;33;Batavia;Manilles
+163;33;Batavia;Manilles
+164;33;Batavia;Manilles
+6;34;Hambourg;Londres
+165;34;Hambourg;Le Havre
+166;34;Le Havre;Londres
+167;34;Hambourg;Londres
+153;35;Ziguinchor;Malabo
+154;35;Malabo;Bata
+155;35;Ziguinchor;Bata
+156;35;Ziguinchor;Bata
+6;35;Malabo;Bata
+12;35;Malabo;Bata
+13;35;Ziguinchor;Malabo
+168;35;Ziguinchor;Malabo
+169;36;Bata;Luba
+170;36;Bata;Luba
+171;37;Mahe;
+172;37;Mahe;
+173;37;Mahe;
+174;37;Mahe;
+176;38;Le Havre;Boston

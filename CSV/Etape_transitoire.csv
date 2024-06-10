@@ -1,0 +1,98 @@
+nom;id_voyage;numero_etape
+Madrid;1;1
+Port-au-Prince;1;2
+Madrid;2;1
+Lisbonne;2;2
+Bordeaux;3;1
+Algeciras;5;1
+Pointe a Pitre;5;2
+Louisbourg;6;1
+Dakar;7;1
+Port-au-Prince;8;1
+Georgetown;8;2
+Madrid;9;1
+Lisbonne;9;2
+Port-au-Prince;10;1
+Pointe a Pitre;10;2
+Fort-de-France;10;3
+Dakar;10;4
+Malabo;10;5
+Luanda;10;6
+Bordeaux;12;1
+Lisbonne;12;2
+Port-au-Prince;12;3
+Pointe a Pitre;12;4
+Fort-de-France;12;5
+Vieux fort;12;6
+Recife;12;7
+Dakar;12;8
+Luanda;12;9
+Le Cap;12;10
+Maputo;12;11
+Fort Dauphin;12;12
+Pointe des Galets;12;13
+Diu;12;14
+Mahe;12;15
+Bombay;12;16
+Pondichery;12;17
+Calcutta;12;18
+Batavia;12;19
+Manilles;12;20
+Sines;13;1
+Pondichery;14;1
+Madras;14;2
+Calcutta;14;3
+Batavia;14;4
+Louisbourg;15;1
+Batavia;16;1
+Manilles;16;2
+Shanghai;16;3
+Kyoto;16;4
+Le Havre;18;1
+Bordeaux;18;2
+Lisbonne;18;3
+Dakar;18;4
+Bata;18;5
+Namiba;18;6
+Bata;19;1
+Luanda;19;2
+Namiba;19;3
+Maputo;19;4
+Fort Dauphin;19;5
+Pointe des Galets;19;6
+Bombay;19;7
+Pondichery;19;8
+Namiba;20;1
+Maputo;20;2
+Lisbonne;24;1
+Bordeaux;24;2
+Manilles;25;1
+Calcutta;25;2
+Pondichery;25;3
+Madras;25;4
+Pointe des Galets;25;5
+Maputo;25;6
+Quebec;26;1
+Madras;27;1
+Pondichery;27;2
+Pointe a Pitre;29;1
+Bata;30;1
+Luanda;30;2
+Namiba;30;3
+Le Havre;34;1
+Malabo;35;1
+Madras;37;1
+Port-au-Prince;38;1
+Lisbonne;39;1
+Dakar;39;2
+Port-au-Prince;40;1
+New York;41;1
+Lisbonne;42;1
+Port-au-Prince;43;1
+New York;44;1
+Lisbonne;45;1
+Port-au-Prince;46;1
+New York;47;1
+Lisbonne;48;1
+Port-au-Prince;49;1
+New York;50;1

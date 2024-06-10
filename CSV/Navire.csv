@@ -1,0 +1,40 @@
+id_navire;nom;type;categorie;nationalite;volume_marchandise;capacite_passager
+ARMFR01;Magnanime;Navire de ligne;5;France;1000;500
+NAVY01;Cumberland;Navire de ligne;3;Royaume-Uni;1050;450
+PIRAT01;Queen's Anne Revenge;Fregate;3;;775;350
+ARMFR02;Bourbon;Navire de guerre;5;France;1300;800
+ARMFR03;Chameau;Flute de guerre;3;France;600;105
+ARMFR04;Content;Navire de guerre;2;France;800;400
+NAVY02;Pearl;Navire de guerre;5;Royaume-Uni;400;90
+ARMFR05;Foudroyant;Vaisseau;5;France;2407;1000
+ROYEN01;Prince Frederic;Barge;5;Royaume-Uni;375;10
+NAVY03;Centurion;Vaisseau de ligne;4;Royaume-Uni;1575;700
+MARFR01;Saint-Geran;Navire;5;France;3000;100
+ARMES01;Glorioso;Navire;3;Espagne;1000;300
+MARFR02;Prince de Conty;Fregate de commerce;4;France;3235;200
+QEB01;Caribou;Navire de guerre;3;Canada;1825;500
+NAVY04;Defiance;Vaisseau de ligne;4;Royaume-Uni;1200;425
+ARMES02;Dragon;Navire de ligne;3;Espagne;1220;465
+NEERD01;Amsterdam;Indiaman;5;Pays-Bas;3030;203
+ARMES03;Rayo;Vaisseau de ligne;2;Espagne;700;500
+MARFR03;Auguste;Corsaire;5;France;50;121
+MARFR04;Prince;Vaisseau;4;France;2780;300
+NEERD02;Meermin;Navire;5;Pays-Bas;4000;150
+ROYEN02;Endeavour;Navire;4;Royaume-Uni;800;50
+ARMES04;San Juan Nepomuceno;Vaisseau de ligne;3;Espagne;2395;530
+ARMES05;Santisima Trinidad;Navire de ligne;4;Espagne;2215;425
+MARFR05;Gros Ventre ;Gabare;5;France;5225;30
+USS01;Columbia;Sloop;3;Etats-Unis;1260;30
+MAREN01;Sartine;Fregate;4;Royaume-Uni;3045;100
+USS02;Turtle;Sous-marin;4;Etats-Unis;0;1
+USS03;Entreprise;Corsaire;4;Etats-Unis;450;200
+ARMFR06;Hermione;Fregat;5;France;1900;200
+PORT01;Pinta;Navire;5;Portugal;1492;30
+PORT02;Nina;Navire;5;Portugal;1493;30
+PORT03;Santa Maria;Navire;5;Portugal;1495;30
+NEERD03;Hollandais Volant;Vaisseau fanteme;1;Pays-Bas;0;1000
+GER01;Deutsch Schiff;Navire;3;Allemagne;1300;120
+GER02;Deutsch Schiff;Navire;5;Allemagne;825;80
+GER03;Deutsch Schiff;Navire;2;Allemagne;1445;105
+GER04;Deutsch Schiff;Navire;2;Allemagne;705;220
+CHINA01;Gujin Tushu Jicheng;Peniche;3;Chine;2;4

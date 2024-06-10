@@ -1,0 +1,595 @@
+nation1;nation2;type_de_relation
+France;Allemagne;Neutre
+France;Royaume-Uni;En guerre
+France;Pays-Bas;Neutre
+France;Espagne;Allie
+France;Portugal;Allie
+France;Bresil;Neutre
+France;Sainte-Lucie;Allie commercial
+France;Etats-Unis;Allie
+France;Canada;En guerre
+France;Guadeloupe;Allie commercial
+France;Martinique;Allie commercial
+France;St Domingue;Allie commercial
+France;Senegal;Allie commercial
+France;Guinee;Allie commercial
+France;Angola;Allie commercial
+France;Afrique du Sud;Allie commercial
+France;Mozambique;Neutre
+France;Madagascar;Allie commercial
+France;Reunion;Allie commercial
+France;Inde;En guerre
+France;Chine;Allie commercial
+France;Japon;En guerre
+France;Indonesie;Neutre
+France;Philippines;Neutre
+Allemagne;Royaume-Uni;En guerre
+Allemagne;Pays-Bas;Allie
+Allemagne;Espagne;Neutre
+Allemagne;Portugal;Neutre
+Allemagne;Bresil;Neutre
+Allemagne;Etats-Unis;Neutre
+Allemagne;Canada;Neutre
+Allemagne;Guadeloupe;Allie commercial
+Allemagne;Martinique;Allie commercial
+Allemagne;St Domingue;Allie commercial
+Allemagne;Senegal;Allie commercial
+Allemagne;Guinee;Allie commercial
+Allemagne;Angola;Allie commercial
+Allemagne;Afrique du Sud;Allie commercial
+Allemagne;Mozambique;Allie commercial
+Allemagne;Madagascar;Neutre
+Allemagne;Reunion;Neutre
+Allemagne;Inde;Neutre
+Allemagne;Chine;Allie commercial
+Allemagne;Japon;Neutre
+Allemagne;Indonesie;Allie commercial
+Allemagne;Philippines;Neutre
+Allemagne;Sainte-Lucie;Neutre
+Royaume-Uni;Pays-Bas;En guerre
+Royaume-Uni;Espagne;Neutre
+Royaume-Uni;Portugal;Neutre
+Royaume-Uni;Bresil;Allie commercial
+Royaume-Uni;Sainte-Lucie;En guerre
+Royaume-Uni;Etats-Unis;En guerre
+Royaume-Uni;Canada;Allie
+Royaume-Uni;Guadeloupe;En guerre
+Royaume-Uni;Martinique;En guerre
+Royaume-Uni;St Domingue;Allie commercial
+Royaume-Uni;Senegal;En guerre
+Royaume-Uni;Guinee;En guerre
+Royaume-Uni;Angola;Allie commercial
+Royaume-Uni;Afrique du Sud;Allie commercial
+Royaume-Uni;Mozambique;Allie commercial
+Royaume-Uni;Madagascar;En guerre
+Royaume-Uni;Reunion;En guerre
+Royaume-Uni;Inde;Allie commercial
+Royaume-Uni;Chine;En guerre
+Royaume-Uni;Japon;Allie commercial
+Royaume-Uni;Indonesie;En guerre
+Royaume-Uni;Philippines;Allie commercial
+Pays-Bas;Espagne;Neutre
+Pays-Bas;Portugal;Neutre
+Pays-Bas;Bresil;Neutre
+Pays-Bas;Sainte-Lucie;Allie commercial
+Pays-Bas;Etats-Unis;Neutre
+Pays-Bas;Canada;Neutre
+Pays-Bas;Guadeloupe;Allie commercial
+Pays-Bas;Martinique;Allie commercial
+Pays-Bas;St Domingue;Allie commercial
+Pays-Bas;Senegal;Allie commercial
+Pays-Bas;Guinee;Allie commercial
+Pays-Bas;Angola;Neutre
+Pays-Bas;Afrique du Sud;Allie commercial
+Pays-Bas;Mozambique;Allie commercial
+Pays-Bas;Madagascar;Allie commercial
+Pays-Bas;Inde;En guerre
+Pays-Bas;Chine;Neutre
+Pays-Bas;Japon;Neutre
+Pays-Bas;Indonesie;Allie commercial
+Pays-Bas;Philippines;Allie commercial
+Espagne;Portugal;Allie
+Espagne;Bresil;Allie commercial
+Espagne;Sainte-Lucie;Allie commercial
+Espagne;Etats-Unis;Neutre
+Espagne;Canada;Neutre
+Espagne;Guadeloupe;Allie commercial
+Espagne;Martinique;Allie commercial
+Espagne;St Domingue;Neutre
+Espagne;Senegal;Allie commercial
+Espagne;Guinee;Allie commercial
+Espagne;Angola;Allie commercial
+Espagne;Afrique du Sud;Allie commercial
+Espagne;Mozambique;Allie commercial
+Espagne;Madagascar;Neutre
+Espagne;Reunion;Neutre
+Espagne;Inde;Neutre
+Espagne;Chine;Neutre
+Espagne;Japon;Allie commercial
+Espagne;Indonesie;Allie commercial
+Espagne;Philippines;Allie commercial
+Portugal;Etats-Unis;Neutre
+Portugal;Canada;Neutre
+Portugal;Guadeloupe;Allie commercial
+Portugal;Martinique;Neutre
+Portugal;St Domingue;Allie commercial
+Portugal;Senegal;Allie commercial
+Portugal;Guinee;Allie commercial
+Portugal;Angola;Neutre
+Portugal;Afrique du Sud;Allie commercial
+Portugal;Mozambique;Netutre
+Portugal;Madagascar;Allie commercial
+Portugal;Reunion;Allie commercial
+Portugal;Inde;Allie commercial
+Portugal;Chine;Allie commercial
+Portugal;Japon;Neutre
+Portugal;Indonesie;Allie commercial
+Portugal;Philippines;Allie commercial
+Bresil;Sainte-Lucie;Neutre
+Bresil;Etats-Unis;Neutre
+Bresil;Canada;Neutre
+Bresil;Guadeloupe;Neutre
+Bresil;Martinique;Neutre
+Bresil;St Domingue;Neutre
+Bresil;Senegal;Neutre
+Bresil;Guinee;Neutre
+Bresil;Angola;Neutre
+Bresil;Afrique du Sud;Neutre
+Bresil;Mozambique;Neutre
+Bresil;Madagascar;Neutre
+Bresil;Reunion;Neutre
+Bresil;Inde;Neutre
+Bresil;Chine;Neutre
+Bresil;Japon;Neutre
+Bresil;Indonesie;Neutre
+Bresil;Philippines;Neutre
+Sainte-Lucie;Etats-Unis;Neutre
+Sainte-Lucie;Canada;Neutre
+Sainte-Lucie;Guadeloupe;Neutre
+Sainte-Lucie;Martinique;Neutre
+Sainte-Lucie;St Domingue;Neutre
+Sainte-Lucie;Senegal;Neutre
+Sainte-Lucie;Guinee;Neutre
+Sainte-Lucie;Angola;Neutre
+Sainte-Lucie;Afrique du Sud;Neutre
+Sainte-Lucie;Mozambique;Neutre
+Sainte-Lucie;Madagascar;Neutre
+Sainte-Lucie;Reunion;Neutre
+Sainte-Lucie;Inde;Neutre
+Sainte-Lucie;Chine;Neutre
+Sainte-Lucie;Japon;Neutre
+Sainte-Lucie;Indonesie;Neutre
+Sainte-Lucie;Philippines;Neutre
+Etats-Unis;Canada;En guerre
+Etats-Unis;Guadeloupe;Allie commercial
+Etats-Unis;Martinique;Allie commercial
+Etats-Unis;St Domingue;Allie commercial
+Etats-Unis;Senegal;Neutre
+Etats-Unis;Guinee;Neutre
+Etats-Unis;Angola;Neutre
+Etats-Unis;Afrique du Sud;Neutre
+Etats-Unis;Mozambique;Neutre
+Etats-Unis;Madagascar;Neutre
+Etats-Unis;Reunion;Neutre
+Etats-Unis;Inde;Neutre
+Etats-Unis;Chine;Neutre
+Etats-Unis;Japon;Neutre
+Etats-Unis;Indonesie;Neutre
+Etats-Unis;Philippines;Neutre
+Canada;Guadeloupe;Neutre
+Canada;Martinique;Neutre
+Canada;St Domingue;En guerre
+Canada;Senegal;Neutre
+Canada;Guinee;Neutre
+Canada;Angola;Neutre
+Canada;Afrique du Sud;Neutre
+Canada;Mozambique;Neutre
+Canada;Madagascar;Neutre
+Canada;Reunion;Neutre
+Canada;Inde;Neutre
+Canada;Chine;Neutre
+Canada;Japon;Neutre
+Canada;Indonesie;Neutre
+Canada;Philippines;Neutre
+Guadeloupe;Martinique;Neutre
+Guadeloupe;St Domingue;Neutre
+Guadeloupe;Senegal;Neutre
+Guadeloupe;Guinee;Neutre
+Guadeloupe;Angola;Neutre
+Guadeloupe;Afrique du Sud;Neutre
+Guadeloupe;Mozambique;Neutre
+Guadeloupe;Madagascar;Neutre
+Guadeloupe;Reunion;Neutre
+Guadeloupe;Inde;Neutre
+Guadeloupe;Chine;Neutre
+Guadeloupe;Japon;Neutre
+Guadeloupe;Indonesie;Neutre
+Guadeloupe;Philippines;Neutre
+Martinique;St Domingue;Neutre
+Martinique;Senegal;Neutre
+Martinique;Guinee;Neutre
+Martinique;Angola;Neutre
+Martinique;Afrique du Sud;Neutre
+Martinique;Mozambique;Neutre
+Martinique;Madagascar;Neutre
+Martinique;Reunion;Neutre
+Martinique;Inde;Neutre
+Martinique;Chine;Neutre
+Martinique;Japon;Neutre
+Martinique;Indonesie;Neutre
+Martinique;Philippines;Neutre
+St Domingue;Senegal;Neutre
+St Domingue;Guinee;Neutre
+St Domingue;Angola;Neutre
+St Domingue;Afrique du Sud;Neutre
+St Domingue;Mozambique;Neutre
+St Domingue;Madagascar;Neutre
+St Domingue;Reunion;Neutre
+St Domingue;Inde;Neutre
+St Domingue;Chine;Neutre
+St Domingue;Japon;Neutre
+St Domingue;Indonesie;Neutre
+St Domingue;Philippines;Neutre
+Senegal;Guinee;Neutre
+Senegal;Angola;Neutre
+Senegal;Afrique du Sud;Neutre
+Senegal;Mozambique;Neutre
+Senegal;Madagascar;Neutre
+Senegal;Reunion;Neutre
+Senegal;Inde;Neutre
+Senegal;Chine;Neutre
+Senegal;Japon;Neutre
+Senegal;Indonesie;Neutre
+Senegal;Philippines;Neutre
+Guinee;Angola;Neutre
+Guinee;Afrique du Sud;Neutre
+Guinee;Mozambique;Neutre
+Guinee;Madagascar;Neutre
+Guinee;Reunion;Neutre
+Guinee;Inde;Neutre
+Guinee;Chine;Neutre
+Guinee;Japon;Neutre
+Guinee;Indonesie;Neutre
+Guinee;Philippines;Neutre
+Angola;Afrique du Sud;Neutre
+Angola;Mozambique;Neutre
+Angola;Madagascar;Neutre
+Angola;Reunion;Neutre
+Angola;Inde;Neutre
+Angola;Chine;Neutre
+Angola;Japon;Neutre
+Angola;Indonesie;Neutre
+Angola;Philippines;Neutre
+Afrique du Sud;Mozambique;Neutre
+Afrique du Sud;Madagascar;Neutre
+Afrique du Sud;Reunion;Neutre
+Afrique du Sud;Inde;Neutre
+Afrique du Sud;Chine;Neutre
+Afrique du Sud;Japon;Neutre
+Afrique du Sud;Indonesie;Neutre
+Afrique du Sud;Philippines;Neutre
+Mozambique;Madagascar;Neutre
+Mozambique;Reunion;Neutre
+Mozambique;Inde;Neutre
+Mozambique;Chine;Neutre
+Mozambique;Japon;Neutre
+Mozambique;Indonesie;Neutre
+Mozambique;Philippines;Neutre
+Madagascar;Reunion;En guerre
+Madagascar;Inde;Neutre
+Madagascar;Chine;Neutre
+Madagascar;Japon;Neutre
+Madagascar;Indonesie;Neutre
+Madagascar;Philippines;Neutre
+Reunion;Inde;Neutre
+Reunion;Chine;Neutre
+Reunion;Japon;Neutre
+Reunion;Indonesie;Neutre
+Reunion;Philippines;Neutre
+Inde;Chine;Neutre
+Inde;Japon;Neutre
+Inde;Indonesie;Neutre
+Inde;Philippines;Neutre
+Chine;Japon;En guerre
+Chine;Indonesie;En guerre
+Chine;Philippines;En guerre
+Japon;Indonesie;Neutre
+Japon;Philippines;Neutre
+Indonesie;Philippines;Neutre
+Allemagne;France;Neutre
+Royaume-Uni;France;En guerre
+Pays-Bas;France;Neutre
+Espagne;France;Allie
+Portugal;France;Allie
+Bresil;France;Neutre
+Sainte-Lucie;France;Allie commercial
+Etats-Unis;France;Allie
+Canada;France;En guerre
+Guadeloupe;France;Allie commercial
+Martinique;France;Allie commercial
+St Domingue;France;Allie commercial
+Senegal;France;Allie commercial
+Guinee;France;Allie commercial
+Angola;France;Allie commercial
+Afrique du Sud;France;Allie commercial
+Mozambique;France;Neutre
+Madagascar;France;Allie commercial
+Reunion;France;Allie commercial
+Inde;France;En guerre
+Chine;France;Allie commercial
+Japon;France;En guerre
+Indonesie;France;Neutre
+Philippines;France;Neutre
+Royaume-Uni;Allemagne;En guerre
+Pays-Bas;Allemagne;Allie
+Espagne;Allemagne;Neutre
+Portugal;Allemagne;Neutre
+Bresil;Allemagne;Neutre
+Etats-Unis;Allemagne;Neutre
+Canada;Allemagne;Neutre
+Guadeloupe;Allemagne;Allie commercial
+Martinique;Allemagne;Allie commercial
+St Domingue;Allemagne;Allie commercial
+Senegal;Allemagne;Allie commercial
+Guinee;Allemagne;Allie commercial
+Angola;Allemagne;Allie commercial
+Afrique du Sud;Allemagne;Allie commercial
+Mozambique;Allemagne;Allie commercial
+Madagascar;Allemagne;Neutre
+Reunion;Allemagne;Neutre
+Inde;Allemagne;Neutre
+Chine;Allemagne;Allie commercial
+Japon;Allemagne;Neutre
+Indonesie;Allemagne;Allie commercial
+Philippines;Allemagne;Neutre
+Sainte-Lucie;Allemagne;Neutre
+Pays-Bas;Royaume-Uni;En guerre
+Espagne;Royaume-Uni;Neutre
+Portugal;Royaume-Uni;Neutre
+Bresil;Royaume-Uni;Allie commercial
+Sainte-Lucie;Royaume-Uni;En guerre
+Etats-Unis;Royaume-Uni;En guerre
+Canada;Royaume-Uni;Allie
+Guadeloupe;Royaume-Uni;En guerre
+Martinique;Royaume-Uni;En guerre
+St Domingue;Royaume-Uni;Allie commercial
+Senegal;Royaume-Uni;En guerre
+Guinee;Royaume-Uni;En guerre
+Angola;Royaume-Uni;Allie commercial
+Afrique du Sud;Royaume-Uni;Allie commercial
+Mozambique;Royaume-Uni;Allie commercial
+Madagascar;Royaume-Uni;En guerre
+Reunion;Royaume-Uni;En guerre
+Inde;Royaume-Uni;Allie commercial
+Chine;Royaume-Uni;En guerre
+Japon;Royaume-Uni;Allie commercial
+Indonesie;Royaume-Uni;En guerre
+Philippines;Royaume-Uni;Allie commercial
+Espagne;Pays-Bas;Neutre
+Portugal;Pays-Bas;Neutre
+Bresil;Pays-Bas;Neutre
+Sainte-Lucie;Pays-Bas;Allie commercial
+Etats-Unis;Pays-Bas;Neutre
+Canada;Pays-Bas;Neutre
+Guadeloupe;Pays-Bas;Allie commercial
+Martinique;Pays-Bas;Allie commercial
+St Domingue;Pays-Bas;Allie commercial
+Senegal;Pays-Bas;Allie commercial
+Guinee;Pays-Bas;Allie commercial
+Angola;Pays-Bas;Neutre
+Afrique du Sud;Pays-Bas;Allie commercial
+Mozambique;Pays-Bas;Allie commercial
+Madagascar;Pays-Bas;Allie commercial
+Inde;Pays-Bas;En guerre
+Chine;Pays-Bas;Neutre
+Japon;Pays-Bas;Neutre
+Indonesie;Pays-Bas;Allie commercial
+Philippines;Pays-Bas;Allie commercial
+Portugal;Espagne;Allie
+Bresil;Espagne;Allie commercial
+Sainte-Lucie;Espagne;Allie commercial
+Etats-Unis;Espagne;Neutre
+Canada;Espagne;Neutre
+Guadeloupe;Espagne;Allie commercial
+Martinique;Espagne;Allie commercial
+St Domingue;Espagne;Neutre
+Senegal;Espagne;Allie commercial
+Guinee;Espagne;Allie commercial
+Angola;Espagne;Allie commercial
+Afrique du Sud;Espagne;Allie commercial
+Mozambique;Espagne;Allie commercial
+Madagascar;Espagne;Neutre
+Reunion;Espagne;Neutre
+Inde;Espagne;Neutre
+Chine;Espagne;Neutre
+Japon;Espagne;Allie commercial
+Indonesie;Espagne;Allie commercial
+Philippines;Espagne;Allie commercial
+Etats-Unis;Portugal;Neutre
+Canada;Portugal;Neutre
+Guadeloupe;Portugal;Allie commercial
+Martinique;Portugal;Neutre
+St Domingue;Portugal;Allie commercial
+Senegal;Portugal;Allie commercial
+Guinee;Portugal;Allie commercial
+Angola;Portugal;Neutre
+Afrique du Sud;Portugal;Allie commercial
+Mozambique;Portugal;Netutre
+Madagascar;Portugal;Allie commercial
+Reunion;Portugal;Allie commercial
+Inde;Portugal;Allie commercial
+Chine;Portugal;Allie commercial
+Japon;Portugal;Neutre
+Indonesie;Portugal;Allie commercial
+Philippines;Portugal;Allie commercial
+Sainte-Lucie;Bresil;Neutre
+Etats-Unis;Bresil;Neutre
+Canada;Bresil;Neutre
+Guadeloupe;Bresil;Neutre
+Martinique;Bresil;Neutre
+St Domingue;Bresil;Neutre
+Senegal;Bresil;Neutre
+Guinee;Bresil;Neutre
+Angola;Bresil;Neutre
+Afrique du Sud;Bresil;Neutre
+Mozambique;Bresil;Neutre
+Madagascar;Bresil;Neutre
+Reunion;Bresil;Neutre
+Inde;Bresil;Neutre
+Chine;Bresil;Neutre
+Japon;Bresil;Neutre
+Indonesie;Bresil;Neutre
+Philippines;Bresil;Neutre
+Etats-Unis;Sainte-Lucie;Neutre
+Canada;Sainte-Lucie;Neutre
+Guadeloupe;Sainte-Lucie;Neutre
+Martinique;Sainte-Lucie;Neutre
+St Domingue;Sainte-Lucie;Neutre
+Senegal;Sainte-Lucie;Neutre
+Guinee;Sainte-Lucie;Neutre
+Angola;Sainte-Lucie;Neutre
+Afrique du Sud;Sainte-Lucie;Neutre
+Mozambique;Sainte-Lucie;Neutre
+Madagascar;Sainte-Lucie;Neutre
+Reunion;Sainte-Lucie;Neutre
+Inde;Sainte-Lucie;Neutre
+Chine;Sainte-Lucie;Neutre
+Japon;Sainte-Lucie;Neutre
+Indonesie;Sainte-Lucie;Neutre
+Philippines;Sainte-Lucie;Neutre
+Canada;Etats-Unis;En guerre
+Guadeloupe;Etats-Unis;Allie commercial
+Martinique;Etats-Unis;Allie commercial
+St Domingue;Etats-Unis;Allie commercial
+Senegal;Etats-Unis;Neutre
+Guinee;Etats-Unis;Neutre
+Angola;Etats-Unis;Neutre
+Afrique du Sud;Etats-Unis;Neutre
+Mozambique;Etats-Unis;Neutre
+Madagascar;Etats-Unis;Neutre
+Reunion;Etats-Unis;Neutre
+Inde;Etats-Unis;Neutre
+Chine;Etats-Unis;Neutre
+Japon;Etats-Unis;Neutre
+Indonesie;Etats-Unis;Neutre
+Philippines;Etats-Unis;Neutre
+Guadeloupe;Canada;Neutre
+Martinique;Canada;Neutre
+St Domingue;Canada;En guerre
+Senegal;Canada;Neutre
+Guinee;Canada;Neutre
+Angola;Canada;Neutre
+Afrique du Sud;Canada;Neutre
+Mozambique;Canada;Neutre
+Madagascar;Canada;Neutre
+Reunion;Canada;Neutre
+Inde;Canada;Neutre
+Chine;Canada;Neutre
+Japon;Canada;Neutre
+Indonesie;Canada;Neutre
+Philippines;Canada;Neutre
+Martinique;Guadeloupe;Neutre
+St Domingue;Guadeloupe;Neutre
+Senegal;Guadeloupe;Neutre
+Guinee;Guadeloupe;Neutre
+Angola;Guadeloupe;Neutre
+Afrique du Sud;Guadeloupe;Neutre
+Mozambique;Guadeloupe;Neutre
+Madagascar;Guadeloupe;Neutre
+Reunion;Guadeloupe;Neutre
+Inde;Guadeloupe;Neutre
+Chine;Guadeloupe;Neutre
+Japon;Guadeloupe;Neutre
+Indonesie;Guadeloupe;Neutre
+Philippines;Guadeloupe;Neutre
+St Domingue;Martinique;Neutre
+Senegal;Martinique;Neutre
+Guinee;Martinique;Neutre
+Angola;Martinique;Neutre
+Afrique du Sud;Martinique;Neutre
+Mozambique;Martinique;Neutre
+Madagascar;Martinique;Neutre
+Reunion;Martinique;Neutre
+Inde;Martinique;Neutre
+Chine;Martinique;Neutre
+Japon;Martinique;Neutre
+Indonesie;Martinique;Neutre
+Philippines;Martinique;Neutre
+Senegal;St Domingue;Neutre
+Guinee;St Domingue;Neutre
+Angola;St Domingue;Neutre
+Afrique du Sud;St Domingue;Neutre
+Mozambique;St Domingue;Neutre
+Madagascar;St Domingue;Neutre
+Reunion;St Domingue;Neutre
+Inde;St Domingue;Neutre
+Chine;St Domingue;Neutre
+Japon;St Domingue;Neutre
+Indonesie;St Domingue;Neutre
+Philippines;St Domingue;Neutre
+Guinee;Senegal;Neutre
+Angola;Senegal;Neutre
+Afrique du Sud;Senegal;Neutre
+Mozambique;Senegal;Neutre
+Madagascar;Senegal;Neutre
+Reunion;Senegal;Neutre
+Inde;Senegal;Neutre
+Chine;Senegal;Neutre
+Japon;Senegal;Neutre
+Indonesie;Senegal;Neutre
+Philippines;Senegal;Neutre
+Angola;Guinee;Neutre
+Afrique du Sud;Guinee;Neutre
+Mozambique;Guinee;Neutre
+Madagascar;Guinee;Neutre
+Reunion;Guinee;Neutre
+Inde;Guinee;Neutre
+Chine;Guinee;Neutre
+Japon;Guinee;Neutre
+Indonesie;Guinee;Neutre
+Philippines;Guinee;Neutre
+Afrique du Sud;Angola;Neutre
+Mozambique;Angola;Neutre
+Madagascar;Angola;Neutre
+Reunion;Angola;Neutre
+Inde;Angola;Neutre
+Chine;Angola;Neutre
+Japon;Angola;Neutre
+Indonesie;Angola;Neutre
+Philippines;Angola;Neutre
+Mozambique;Afrique du Sud;Neutre
+Madagascar;Afrique du Sud;Neutre
+Reunion;Afrique du Sud;Neutre
+Inde;Afrique du Sud;Neutre
+Chine;Afrique du Sud;Neutre
+Japon;Afrique du Sud;Neutre
+Indonesie;Afrique du Sud;Neutre
+Philippines;Afrique du Sud;Neutre
+Madagascar;Mozambique;Neutre
+Reunion;Mozambique;Neutre
+Inde;Mozambique;Neutre
+Chine;Mozambique;Neutre
+Japon;Mozambique;Neutre
+Indonesie;Mozambique;Neutre
+Philippines;Mozambique;Neutre
+Reunion;Madagascar;En guerre
+Inde;Madagascar;Neutre
+Chine;Madagascar;Neutre
+Japon;Madagascar;Neutre
+Indonesie;Madagascar;Neutre
+Philippines;Madagascar;Neutre
+Inde;Reunion;Neutre
+Chine;Reunion;Neutre
+Japon;Reunion;Neutre
+Indonesie;Reunion;Neutre
+Philippines;Reunion;Neutre
+Chine;Inde;Neutre
+Japon;Inde;Neutre
+Indonesie;Inde;Neutre
+Philippines;Inde;Neutre
+Japon;Chine;En guerre
+Indonesie;Chine;En guerre
+Philippines;Chine;En guerre
+Indonesie;Japon;Neutre
+Philippines;Japon;Neutre
+Philippines;Indonesie;Neutre

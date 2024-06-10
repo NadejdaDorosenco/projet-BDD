@@ -1,0 +1,63 @@
+id_navire;date_debut;date_fin;provenance;destination;distance;classe;localisation_continental
+ARMFR01;1777-10-03;1778-01-20;Le Havre;Georgetown;6862;5;Intercontinentale
+ARMFR01;1705-06-12;1705-07-05;Marseilles;Dakar;3905;5;Intercontinentale
+NAVY01;1768-03-14;1768-03-21;Immingham;Madrid;1659;3;Europe
+PIRAT01;1727-12-25;1728-01-13;Pointe a Pitre;Vieux fort;270;3;Amerique du Nord
+ARMFR02;1701-04-11;1701-08-24;Bordeaux;Port-au-Prince;3655;5;Intercontinentale
+ARMFR03;1792-05-16;1794-05-16;Quebec;Georgetown;976;3;Amerique du Nord
+PORT02;1718-09-14;1719-06-12;Lisbonne;Recife;7487;5;Intercontinentale
+NAVY02;1703-01-25;1704-07-18;Londres;New York;5570;5;Intercontinentale
+ARMFR05;1745-02-06;1745-03-06;Marseilles;Pointe a Pitre;3343;5;Intercontinentale
+NAVY02;1712-11-12;1713-04-24;New York;Le Cap;12595;5;Intercontinentale
+NAVY03;1736-08-13;1736-11-13;Maputo;Fort Dauphin;451;4;Afrique
+MARFR01;1700-01-01;1705-12-31;Le Havre;Shanghai;28900;5;Intercontinentale
+ARMES01;1766-09-17;1766-10-03;Madrid;Immingham;1659;3;Europe
+MARFR02;1783-10-04;1784-12-09;Bombay;Manilles;4652;4;Asie
+QEB01;1702-04-06;1702-04-13;Quebec;Georgetown;976;3;Amerique du Nord
+NAVY04;1753-06-12;1754-05-06;Calcutta;Tokyo;6473;4;Asie
+ARMES02;1799-03-14;1799-05-08;Luba;Namiba;2976;3;Afrique
+NEERD01;1714-07-08;1715-06-07;Amsterdam;Le Cap;9686;5;Intercontinentale
+MARFR03;1705-06-12;1707-12-06;Ziguinchor;Batavia;13737;5;Intercontinentale
+MARFR04;1783-01-24;1783-07-12;Luanda;Fort Dauphin;3999;4;Afrique
+NEERD02;1730-02-03;1730-02-04;Rotterdam;Amsterdam;57;5;Europe
+ROYEN02;1742-05-16;1742-11-12;Louisbourg;Vieux fort;3581;2;Amerique du Nord
+ARMES04;1766-10-29;1766-10-30;Madrid;Sines;500;3;Europe
+ARMES05;1737-07-31;1737-08-14;Algeciras;Le Havre;1555;4;Europe
+ARMFR01;1742-08-22;1743-10-27;Macao;Le Cap;11696;5;Intercontinentale
+USS01;1721-12-21;1722-01-17;New York;Georgetown;2391;3;Amerique du Nord
+MAREN01;1713-07-12;1714-09-14;Bombay;Calcutta;1650;4;Asie
+MAREN01;1715-08-13;1715-08-20;Tokyo;Kyoto;364;4;Asie
+USS03;1755-03-30;1755-04-23;Port-au-Prince;Fort-de-France;1272;4;Amerique du Nord
+ARMFR05;1780-11-11;1781-02-07;Malabo;Le Cap;4129;4;Afrique
+PORT01;1739-06-07;1739-07-07;Recife;Rio de Janeiro;1875;4;Amerique du Sud
+PORT02;1739-06-08;1739-07-08;Recife;Rio de Janeiro;1875;4;Amerique du Sud
+PORT03;1739-06-09;1739-07-09;Batavia;Manilles;2787;4;Asie
+GER02;1769-04-17;1769-04-23;Hambourg;Londres;723;5;Europe
+GER03;1712-03-04;1712-05-06;Ziguinchor;Bata;3096;2;Afrique
+GER04;1739-09-01;1739-09-03;Bata;Luba;223;2;Afrique
+CHINA01;1707-11-24;;Mahe;;1626;3;Asie
+ARMFR06;1780-03-11;1780-12-12;Le Havre;Boston;6500;5;Intercontinentale
+ROYEN01;1705-01-01;1705-05-03;Londres;Luba;5439;5;Intercontinentale
+ROYEN01;1705-05-17;1705-12-13;Luba;Georgetown;11350;5;Intercontinentale
+ROYEN01;1706-01-01;1706-06-17;Georgetown;Londres;7876;5;Intercontinentale
+ROYEN01;1706-11-23;1707-03-26;Londres;Luanda;6439;5;Intercontinentale
+ROYEN01;1707-04-9;1708-02-27;Luanda;Georgetown;11350;5;Intercontinentale
+ROYEN01;1708-03-20;1708-08-31;Georgetown;Le Havre;8876;5;Intercontinentale
+ROYEN01;1708-09-24;1709-01-17;Le Havre;Luba;10439;5;Intercontinentale
+ROYEN01;1709-01-31;1709-09-5;Luba;Georgetown;11350;5;Intercontinentale
+ROYEN01;1709-09-29;1710-02-01;Georgetown;Londres;7876;5;Intercontinentale
+ROYEN01;1710-02-15;1710-06-03;Londres;Dakar;4839;5;Intercontinentale
+ROYEN01;1710-06-18;1711-02-28;Dakar;Georgetown;9350;5;Intercontinentale
+ROYEN01;1711-03-17;1711-09-10;Georgetown;Lisbonne;7876;5;Intercontinentale
+MARFR01;1724-07-18;1724-07-22;Le Havre;Hambourg;418;5;Europe
+MARFR01;1724-11-18;1724-11-22;Hambourg;Le Havre;418;5;Europe
+MARFR01;1725-07-18;1725-07-22;Le Havre;Hambourg;418;5;Europe
+MARFR01;1725-11-18;1725-11-22;Hambourg;Le Havre;418;5;Europe
+MARFR01;1726-07-18;1726-07-22;Le Havre;Hambourg;418;5;Europe
+MARFR01;1726-11-18;1726-11-22;Hambourg;Le Havre;418;5;Europe
+MARFR01;1727-07-18;1727-07-22;Le Havre;Hambourg;418;5;Europe
+MARFR01;1727-11-18;1727-11-22;Hambourg;Le Havre;418;5;Europe
+MARFR01;1728-07-18;1728-07-22;Le Havre;Hambourg;418;5;Europe
+MARFR01;1728-11-18;1728-11-22;Hambourg;Le Havre;418;5;Europe
+MARFR01;1729-07-18;1729-07-22;Le Havre;Hambourg;418;5;Europe
+MARFR01;1729-11-18;1729-11-22;Hambourg;Le Havre;418;5;Europe

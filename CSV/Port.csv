@@ -1,0 +1,48 @@
+nom;localisation;nationalite;categorie
+Le Havre;Europe;France;4
+Bordeaux;Europe;France;5
+Marseilles;Europe;France;3
+Hambourg;Europe;Allemagne;5
+Londres;Europe;Royaume-Uni;5
+Immingham;Europe;Royaume-Uni;3
+Rotterdam;Europe;Pays-Bas;5
+Amsterdam;Europe;Pays-Bas;4
+Algeciras;Europe;Espagne;4
+Madrid;Europe;Espagne;3
+Lisbonne;Europe;Portugal;4
+Sines;Europe;Portugal;2
+Recife;Amerique du Sud;Bresil;3
+Rio de Janeiro;Amerique du Sud;Bresil;3
+Boston;Amerique du Nord;Etats-Unis;4
+New York;Amerique du Nord;Etats-Unis;3
+Georgetown;Amerique du Nord;Etats-Unis;3
+Quebec;Amerique du Nord;Canada;3
+Louisbourg;Amerique du Nord;Canada;2
+Vieux fort;Amerique du Nord;Sainte-Lucie;2
+Pointe a Pitre;Amerique du Nord;Guadeloupe;3
+Fort-de-France;Amerique du Nord;Martinique;4
+Port-au-Prince;Amerique du Nord;St Domingue;4
+Dakar;Afrique;Senegal;4
+Ziguinchor;Afrique;Senegal;2
+Malabo;Afrique;Guinee;4
+Bata;Afrique;Guinee;2
+Luba;Afrique;Guinee;1
+Luanda;Afrique;Angola;4
+Namiba;Afrique;Angola;3
+Le Cap;Afrique;Afrique du Sud;5
+Port Elizabeth;Afrique;Afrique du Sud;2
+Maputo;Afrique;Mozambique;3
+Fort Dauphin;Afrique;Madagascar;4
+Pointe des Galets;Afrique;Reunion;4
+Bombay;Asie;Inde;4
+Diu;Asie;Inde;3
+Mahe;Asie;Inde;2
+Pondichery;Asie;Inde;3
+Madras;Asie;Inde;3
+Calcutta;Asie;Inde;4
+Macao;Asie;Chine;5
+Shanghai;Asie;Chine;4
+Tokyo;Asie;Japon;4
+Kyoto;Asie;Japon;3
+Batavia;Asie;Indonesie;4
+Manilles;Asie;Philippines;2
